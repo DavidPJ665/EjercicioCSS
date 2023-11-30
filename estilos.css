@@ -1,0 +1,12 @@
+h1{color:aquamarine}
+span,a{ color:red}
+#Amarillo{color:yellow}
+h2{color:blue}
+a{text-decoration: underline}
+a em, caption{color: blue}
+th,td {color:orange; border: black 1px solid;}
+td[class="Naranja"] {color:orange}
+#Verde,td{color:green}
+th[id],td[id]{color:red}
+#Rosa{color:pink}
+#Subrayado{ text-decoration: underline; color:greenyellow}
